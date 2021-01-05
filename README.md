@@ -4,8 +4,6 @@ I'm Ole, a high school student with a passion for programming, specifically web 
 
 <hr>
 
-<p style="font-weight: bold;">Current Project:</p><br>
-Ovie, an online shell, it's going pretty well, I think?
-
-<p style="font-weight: bold;">Favorite Editor:</p><br>
-I wouldn't know what to do without VSCode, besides when I make something with Java, then I'm all Eclipse.
+| Current Project     | Favorite IDE |
+| ----------- | ----------- |
+| Ovie, an online shell.      | VSCode / Eclipse       |
