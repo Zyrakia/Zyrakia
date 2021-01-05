@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-| Current Project        | Favorite IDE     | Favorite Language |
+| Current Project        | IDE              | Languages         |
 | ---------------------- | ---------------- | ----------------- |
 | Ovie, an online shell. | VSCode / Eclipse | Typescript / Java |
 
