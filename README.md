@@ -3,7 +3,7 @@
 Hi! I'm Ole, a high school student with a passion for programming, specifically web development.<br>
 Everything on here is pretty old and pretty bad, give me a year or so and I'll remake it all and fix it up.
 
-## Intro
+## Me and coding
 
 <a href="https://zyrakia.github.io">Personal Website</a>
 | 💡 Current Project | ✒ IDE | 💜 Languages |
