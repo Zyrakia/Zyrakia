@@ -4,8 +4,8 @@ I'm Ole, a high school student with a passion for programming, specifically web 
 
 <hr>
 
-<h4>Current Project:</h4>
+<p style="font-weight: bold;">Current Project:</p>
 Ovie, an online shell, it's going pretty well, I think?
 
-<h4>Favorite Editor:</h4>
+<p style="font-weight: bold;">Favorite Editor:</p>
 I wouldn't know what to do without VSCode, besides when I make something with Java, then I'm all Eclipse.
