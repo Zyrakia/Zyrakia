@@ -1,7 +1,7 @@
 # 👋 Hello there!
 
 Hi! I'm Ole, a high school student with a passion for programming, specifically web development.<br>
-Everything on here is pretty old, and pretty bad, give me a few years and I'll remake it all and fix it up.
+Everything on here is pretty old and pretty bad, give me a year or so and I'll remake it all and fix it up.
 
 ## Intro
 
