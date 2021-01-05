@@ -1,12 +1,8 @@
-<style>
-p {
-  text-align: center;
-}
-</style>
-
 # 👋 Hello there!
 
-<p>Ole</p><br><p>High school student</p><br><p>Passionate about programming</p>
+<p align="center">Ole</p>
+<p align="center">High school student</p>
+<p align="center">Passionate about programming</p>
 
 | Current Project        | Favorite IDE     | 
 | ---------------------- | ---------------- |
