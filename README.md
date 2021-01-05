@@ -12,4 +12,4 @@ Hi! I'm Ole, a high school student with a passion for programming, specifically 
 
 | <img width="12px" src="https://cdn.iconscout.com/icon/free/png-64/twitter-87-432551.png"> Twitter | <img width="12px" src="https://cdn.iconscout.com/icon/free/png-64/discord-1863643-1581238.png"> Discord | <img width="12px" src="https://cdn.iconscout.com/icon/free/png-64/gmail-30-722694.png"> Email |
 | - | - | - |
-| <a target="_blank" href="https://twitter.com/zyrakia">@Zyrakia</a> | Zyrakia#3215 | mailzyrakia@gmail.com |
+| <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/zyrakia">@Zyrakia</a> | Zyrakia#3215 | mailzyrakia@gmail.com |
