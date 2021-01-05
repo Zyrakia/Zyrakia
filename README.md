@@ -1,6 +1,12 @@
+<style>
+p {
+  text-align: center;
+}
+</style>
+
 # 👋 Hello there!
 
-Ole<br>High school student<br>Passionate about programming
+<p>Ole</p><br><p>High school student</p><br><p>Passionate about programming</p>
 
 | Current Project        | Favorite IDE     | 
 | ---------------------- | ---------------- |
