@@ -8,7 +8,7 @@ Everything on here is pretty old and pretty bad, give me a year or so and I'll r
 <a href="https://zyrakia.github.io">Personal Website</a>
 | 💡 Current Project | ✒ IDE | 💜 Languages |
 | - | - | - |
-| Random stuff | VSCode / Eclipse | Typescript / Java / Lua |
+| Random switching projects | VSCode / Eclipse | Typescript / Java / Lua |
 
 ## Socials
 
