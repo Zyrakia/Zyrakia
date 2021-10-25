@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-Hi! I'm Ole, a high school student with a passion for programming, specifically web development.<br>
+Hi! I'm Ole, an aspiring software developer interested in everything computers, specifically web development and recently, Roblox.<br>
 Everything on here is pretty old and pretty bad, give me a year or so and I'll remake it all and fix it up.
 
 ## Currently
