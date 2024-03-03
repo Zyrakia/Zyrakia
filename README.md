@@ -3,7 +3,7 @@
 Hi! I'm Ole, an aspiring software developer interested in everything computers, specifically web development and recently, Roblox.<br>
 Everything on here is pretty old, but I have some stuff cooking, and will keep adding to this Github over time.
 
-## Currently
+## Development
 
 | 💡 Current Project | ✒ IDE | 💜 Languages |
 | --------------------------------------------------------------- | ---------------- | ----------------------- |
