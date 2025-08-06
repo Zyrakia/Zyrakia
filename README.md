@@ -1,10 +1,10 @@
 # 👋 Hello there!
 
-I'm Ole, a german-born aspiring software developer interested in everything computers. I self-taught myself programming when I moved to Canada, and now I am enrolled in the BCIT CST diploma to expand my skillset and experience.
+I'm Ole, a german-born aspiring software developer interested in everything computers. I self-taught myself programming when I moved to Canada.
 
 I started out developing plugins with Java for Minecraft, and very quickly expanded into web development, where I fell in love with Typescript.
 
-Recently, I have been working on Roblox games with Typescript and Luau, while creating personal APIs with NodeJS.
+Recently, I have been working on Roblox games with Typescript and Luau, while creating personal APIs with Node/Bun.
 
 ## 💜 Favorite Languages
 
